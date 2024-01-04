@@ -158,7 +158,3 @@ Relevent
 Why
 Products
 Customers
-
-&copy; 2022 @codewithsadee All right reserved
-
-<ion-icon name="chevron-up-outline"></ion-icon>
